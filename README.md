@@ -13,4 +13,4 @@
 
 ## Ссылка на проект
 
-[Научиться учиться](https://svytoslavdzis1.github.io/how-to-learn/)
+[Научиться учиться](https://svytoslavdzis1.github.io/how-to-learn/index.html)

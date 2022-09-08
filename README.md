@@ -11,6 +11,9 @@
 
 Использовались технологии HTML и CSS по написанию проекта.
 
-## Ссылка на проект
+## Инструкции по развертыванию
+- скачайте или клонируйте проект `git clone https://github.com/SvytoslavDzis1/how-to-learn.git`
+- Запустите в браузере `index.html`
 
+## Ссылка на проект
 [Научиться учиться](https://svytoslavdzis1.github.io/how-to-learn/index.html)
